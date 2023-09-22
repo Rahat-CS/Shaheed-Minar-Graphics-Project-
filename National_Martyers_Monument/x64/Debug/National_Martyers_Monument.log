@@ -1,0 +1,180 @@
+﻿  Scene.cpp
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(27,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(195,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(217,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(220,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(242,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(243,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(244,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(245,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(525,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(532,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(545,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(619,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(626,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(636,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(643,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(653,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(660,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(690,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(697,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(712,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(715,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(737,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(738,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(739,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(740,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(881,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(882,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(924,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(925,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(926,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(964,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(965,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(966,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(996,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(999,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(999,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1000,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1000,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1000,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1004,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1004,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1013,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1013,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1014,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1014,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1022,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1022,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1024,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1024,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1026,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1026,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1026,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1030,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1032,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1032,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1044,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1050,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1051,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1057,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1058,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1063,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1069,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1076,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1081,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1088,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1089,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1096,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1097,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1104,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1105,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1110,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1111,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1119,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1120,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1126,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1131,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1132,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1138,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1139,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1144,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1145,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1152,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1159,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1166,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1173,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1179,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1187,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1194,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1205,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1212,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1219,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1226,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1233,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1240,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1250,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1258,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1259,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1270,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1271,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1280,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1310,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1311,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1343,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1349,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1356,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1365,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1366,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1370,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1371,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1377,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1393,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1408,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1414,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1420,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1433,42): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1433,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1433,23): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1434,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1448,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1455,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1463,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1471,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1480,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1488,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1500,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1506,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1512,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1513,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1518,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1519,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1525,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1587,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1594,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1601,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1607,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1744,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1750,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1756,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1764,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1765,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1773,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1774,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1782,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1783,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1795,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1801,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1808,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1817,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1818,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1826,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1827,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1836,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1837,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1848,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1848,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1849,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1856,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1861,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1866,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1873,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1874,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1883,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1888,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1889,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1894,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1895,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1900,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1901,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(1916,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2445,32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2457,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2464,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2478,61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2479,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2480,61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2485,64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2486,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Computer Graphics\Project Shaheed MInar\National_Martyers_Monument\Scene.cpp(2487,64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  National_Martyers_Monument.vcxproj -> D:\Computer Graphics\Project Shaheed MInar\x64\Debug\National_Martyers_Monument.exe
